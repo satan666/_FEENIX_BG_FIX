@@ -32,7 +32,7 @@ FLF_Update = function()
 end
 
 flf:SetScript("OnEvent",FLF_Event);
-flf:SetScript("OnUpdate",FLF_Event);
+flf:SetScript("OnUpdate",FLF_Update);
 
 
 FixStaticPopup_OnShow = function()
