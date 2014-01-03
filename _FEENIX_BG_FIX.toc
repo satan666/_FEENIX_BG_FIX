@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: _Fake POP-UP Fix for BGs
+## Author: slime bob
+## Version: 0.1
+## Notes: Removes fake BG pop-ups
+
+_BG_POPUP_FIX.lua
