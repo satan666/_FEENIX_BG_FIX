@@ -10,7 +10,7 @@ local timer_logout = nil
 flf:RegisterEvent("ADDON_LOADED");
 
 FLF_Event = function()
-	DEFAULT_CHAT_FRAME:AddMessage("_BG_POPUP_FIX by Ogrisch loaded")
+	DEFAULT_CHAT_FRAME:AddMessage("_FEENIX_BG_FIX by Ogrisch loaded")
 	flf:UnregisterEvent("ADDON_LOADED");
 	
 	Logout = Fix_Logout
